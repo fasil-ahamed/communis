@@ -1,6 +1,6 @@
 # 👥communis
 
-**This repo is yet to be completed. Please check later.**
+##**This repo is yet to be completed. Please check later.**
 
 This is a IM application written purely in ```Python``` and uses ```web.py```. The idea was to use the pub/sub model of mqtt and create a chat application. This is a web based application which makes use of ```websockets```, ```mqtt```, ```redis``` and ```ldap```.
 
